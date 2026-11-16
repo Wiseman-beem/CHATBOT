@@ -8,7 +8,7 @@ RaceDay is an event platform for South African road running, walking and cycling
 | 2 | `tests/RaceDay.Api.Tests` | xUnit integration tests (in-memory database, fake blob storage) |
 | **3** | **`src/RaceDay.Web`** | **ASP.NET Core 8 MVC front end. It talks to the API for every read and write.** |
 
-> 🎥 **Video walkthrough (unlisted):** `<paste your YouTube link here>`
+> 🎥 **Video walkthrough (unlisted):https://youtu.be/MdICsKfeGsA?si=n-E7eCgdvPhFu0JK
 
 ---
 
